@@ -7,4 +7,3 @@ patches
 
 st-alpha
 st-bold-is-not-bright
-st-nordtheme
