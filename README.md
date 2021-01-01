@@ -1,4 +1,4 @@
-# suckless-terminal
+# suckless terminal
 my build of st
 https://st.suckless.org
 
